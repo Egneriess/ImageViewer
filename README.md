@@ -4,6 +4,6 @@
 ```
 git clone https://github.com/liyupian/ImageViewer
 cd ImageViewer
-javac ImageViewer.java
+javac ImageViewer.java -encoding utf-8
 java ImageViewer
 ```
